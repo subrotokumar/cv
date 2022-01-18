@@ -1,0 +1,23 @@
+body{
+    background-color: #F4EEFF;
+}
+h1,h2{
+    color: #A6B1E1;
+}
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    color: grey;
+    border-width: 5px;
+    width: 5%;
+}
+.d{
+    width: 70%;
+}
+p,table,ol,ul,form,td,tr{
+    color: #424874;
+}
+img:hover{
+    height: 190px;
+    width: 190px;
+}
